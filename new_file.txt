@@ -1,0 +1,6 @@
+testestst
+
+
+1- edit a bunch of files
+2- stage the changes to files - take it to the checkout aisle
+3- commit the files - buy the file's edits and store it to github
